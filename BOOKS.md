@@ -1,9 +1,9 @@
 # 언젠가 한 번은 보고 싶은 책들 정리하기
 
-> title = "책 제목"
-> author = "저자" 
-> ISBN-13 = "ISBN-13 번호"
-> keyword = "이 책에 흥미를 가지게 된 키워드"
+> title = "책 제목"  
+> author = "저자"  
+> ISBN-13 = "ISBN-13 번호"  
+> keyword = "이 책에 흥미를 가지게 된 키워드"  
 
 title = "Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design"  
 author = "Yourdon Press, Larry L. Constantine"  
